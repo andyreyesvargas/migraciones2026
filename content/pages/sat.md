@@ -1,6 +1,4 @@
-<p align="center">
-![SAT Logo](../images/sat.png)
-</p>
+<p align="center">![SAT Logo](../images/sat.png)</p>
 
 <h1 align="center">Red Hat Satellite</h1>
 <p align="center">
