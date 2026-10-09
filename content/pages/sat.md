@@ -1,4 +1,6 @@
+<p align="center">
 ![SAT Logo](../images/sat.png)
+</p>
 
 <h1 align="center">Red Hat Satellite</h1>
 <p align="center">
@@ -7,8 +9,6 @@
   <br>
   <br>
 </p>
-
-![SAT Logo](content/images/sat.png)
 
 
 <h2>Alcance</h2>
