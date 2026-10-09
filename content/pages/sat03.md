@@ -1,5 +1,5 @@
 <h1>Navegación por la UI de Red Hat Satellite y conocimiento de sus componentes</h1>
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat.png?raw=true"></p>
+<p align="left"><img src="../images/sat.png?raw=true"></p>
 <p>
 <strong>Meta:</strong>
 <br>- Entender las opciones disponibles en la UI de Red Hat Satellite.
@@ -20,7 +20,7 @@
 
 # Visualización de la GUI de Red Hat Satellite.(Demostración)
 El Instructor realizara un Tour por la herramienta Red Hat Satellite, primero loguearse en el servidor satellite instalado en los capítulos anteriores
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat09.png?raw=true"></p>
+<p align="left"><img src="../images/sat09.png?raw=true"></p>
 
 # Visualización de la CLI de Red Hat Satellite.(Demostración)
 La herramienta hammer es el CLI de Red Hat Satellite, esta ya viene preconfigurada en el servidor junto con la instalación de Satellite, se valida las credenciales ingresadas en el proceso de instalación
@@ -126,7 +126,7 @@ Settings type: string
 Value:         Version 6.18.0 MIGRACIONES
 ```
 También se valida por la web
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat10.png?raw=true"></p>
+<p align="left"><img src="../images/sat10.png?raw=true"></p>
 
 **Gestionar los servicios de red hat satellite**
 
@@ -157,10 +157,10 @@ Hacer una revision de salud de Red Hat Satellite
 ```
 
 También se puede cambiar la contraseña con la consola web en la sección de usuarios
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat11.png?raw=true"></p>
+<p align="left"><img src="../main/images/sat11.png?raw=true"></p>
 
 Se ingresa la contraseña actual y la nueva
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat12.png?raw=true"></p>
+<p align="left"><img src="../images/sat12.png?raw=true"></p>
 
 # Laboratorio: Cliente Hammer.
 <br>**Configurar el cliente hammer**
