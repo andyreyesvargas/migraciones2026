@@ -1,6 +1,5 @@
-<p align="center">
 ![SAT Logo](content/images/sat.png)
-</p>
+
 <h1 align="center">Red Hat Satellite</h1>
 <p align="center">
 <br>Workshop elaborado para el cliente Autoridad Nacional de Migraciones
