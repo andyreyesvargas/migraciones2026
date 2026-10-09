@@ -8,6 +8,8 @@
   <br>
 </p>
 
+![SAT Logo](content/images/sat.png)
+
 
 <h2>Alcance</h2>
 
