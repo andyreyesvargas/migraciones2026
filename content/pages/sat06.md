@@ -27,11 +27,11 @@ La siguiente demostración tiene como finalidad aprender a crear usuarios por la
 
 **Administrar > Usuarios**
 
-<p align="left"><img src="../images/sat/sat27.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat27.png?raw=true"width="800" height="400"></p>
 
 En la pagina de Usuarios darle click al boton **Crear usuario**
 
-<p align="left"><img src="../images/sat/sat28.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat28.png?raw=true"width="800" height="400"></p>
 
 Ingresar los datos como se muestra en la imagen y darle click al boton **Enviar**
 
