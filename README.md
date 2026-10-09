@@ -1,8 +1,8 @@
 <h1><p align="center"><br>Workshop elaborado para el cliente Autoridad Nacional de Migraciones</p></h1>
   
-<p align="center"><img src="/content/images/home.png" alt="RH logo"></p>
-<p align="center"<a href="https://www.redhat.com"><strong>Red Hat</strong></a></p>
-z
+<p align="center"><img src="/content/images/home.png" alt="RH logo">
+ <br><a href="https://www.redhat.com"><strong>Red Hat</strong></a>
+</p>
 <br>
 
 
