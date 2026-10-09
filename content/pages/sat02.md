@@ -1,5 +1,5 @@
 <h1>Entendimiento y visualización del proceso de instalación</h1>
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat.png?raw=true"></p>
+<p align="left"><img src="../images/sat.png?raw=true"></p>
 <p>
 <strong>Meta:</strong>
 <br>- Entender el proceso de instalación de la solución Red Hat Satellite así como el diseño sugerido para una correcta implementación.
@@ -35,7 +35,7 @@ Los siguientes requisitos se aplican al sistema operativo base:
 NOTA: El servidor en el cual se instalara satellite deberá ser dedicado para este servicio.
 
 **Requerimientos de almacenamiento**
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat08.png?raw=true"></p>
+<p align="left"><img src="../images/sat08.png?raw=true"></p>
 
 **Directrices para sistema de archivos**
 * Utilice el sistema de archivos XFS para Red Hat Satellite 6 porque no tiene las limitaciones de inodo que tiene ext4. Debido a que Satellite Server usa muchos enlaces simbólicos, es probable que su sistema se quede sin inodos si usa ext4 con su configuracion por defecto.
@@ -149,7 +149,7 @@ tmpfs                     966M     0  966M   0% /run/user/0
 
 ```
 Considerando la tabla de particiones recomendada por el fabricante
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat08.png?raw=true"></p>
+<p align="left"><img src="../images/sat08.png?raw=true"></p>
 
 Se crearan los LV restantes
 ```
