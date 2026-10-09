@@ -29,4 +29,4 @@ Manual de procedimientos del workshop de la solución Red Hat Satellite versión
 <br><a href="sat17">- Gestión de ejecución remota con puppet vía Red Hat Satellite</a>
 <br><a href="sat16">- Gestión de ejecución remota con ansible vía Red Hat Satellite</a>
 
-<p><br><a href="README.md">volver</a></p>
+<p><br><a href="../../README.md">volver</a></p>
