@@ -43,11 +43,11 @@ Verificar que el nuevo usuario se haya creado de manera satisfactoria en la pagi
 
 Seleccionar en la lista de la **columna acciones** la opción **Impersonate** para validar los accesos efectivos
 
-<p align="left"><img src="../images/sat31_00.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat31.png?raw=true"width="800" height="400"></p>
 
 Verificar que se ha cambiado al usuario temporalmente de manera satisfactoria
 
-<p align="left"><img src="../images/sat32_01.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat32.png?raw=true"width="800" height="400"></p>
 
 Marcar el símbolo de Impersonate y confirmar para salir del modo
 
