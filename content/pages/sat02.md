@@ -980,4 +980,4 @@ Tambien podemos verificar con el navegador
 <br>- Utilizar el procedimiento indicado en la explicación para pasar de la version 6.17 a la 6.18.
 <br>- Valide el acceso al servidor actualizado y confirme que la organización, ubicación y credenciales se mantengan de la version anterior.
 
-<p><br><a href="sat">volver</a></p>
+<p><br><a href="sat.md">volver</a></p>
