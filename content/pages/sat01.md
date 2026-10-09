@@ -165,4 +165,4 @@ Red Hat Satellite 6 incluye paquetes Puppet compatibles. El programa de instalac
 ### **Topología de satélite con manejo de ciclo de vida**
 <p align="left"><img src="../images/sat07.png?raw=true" width="850" height="600"></p>
 
-<p><br><a href="sat">volver</a></p>
+<p><br><a href="sat.md">volver</a></p>
