@@ -1,5 +1,5 @@
 <h1>Entendimiento y gestión de usuarios</h1>
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat.png?raw=true"></p>
+<p align="left"><img src="../images/sat.png?raw=true"></p>
 <p>
 <strong>Meta:</strong>
 <br>- Entendimiento de la gestión de organizaciones y ubicaciones en Red Hat Satellite.
