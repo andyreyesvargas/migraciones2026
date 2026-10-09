@@ -1,5 +1,5 @@
 <h1>Gestión de organizaciones y ubicaciones</h1>
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat.png?raw=true"></p>
+<p align="left"><img src="../images/sat.png?raw=true"></p>
 <p>
 <strong>Meta:</strong>
 <br>- Entendimiento de la gestión de organizaciones y ubicaciones en Red Hat Satellite.
@@ -25,19 +25,19 @@ La siguiente demostración tiene como finalidad aprender a crear organizaciones 
 
 **Administrar > Organizaciones**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat14.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat14.png?raw=true"width="800" height="400"></p>
 
 En la pagina de Organziaciones darle click al boton **Nueva organización**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat15.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat15.png?raw=true"width="800" height="400"></p>
 
 Ingresar los datos como se muestra en la imagen y darle click al boton **Enviar**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat16.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat16.png?raw=true"width="800" height="400"></p>
 
 Verificar que la nueva organización se haya creado de manera satisfactoria en la pagina **Organizaciones**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat17.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat17.png?raw=true"width="800" height="400"></p>
 
 # Crear Organizaciones en Satellite por CLI hammer. (Demostrativo)
 Autenticarse utilizando la herramienta hammer
@@ -82,39 +82,39 @@ ID | TITLE       | NAME        | DESCRIPTION            | LABEL
 # Crear Ubicaciones en Satellite por GUI. (Demostrativo)
 **Administrar > Ubicaciones**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat18.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat18.png?raw=true"width="800" height="400"></p>
 
 En la pagina de Ubicaciones darle click al boton **Nueva ubicacion**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat19.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat19.png?raw=true"width="800" height="400"></p>
 
 Ingresar los datos como se muestra en la imagen y darle click al boton **Enviar**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat20.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat20.png?raw=true"width="800" height="400"></p>
 
 Verificar que la nueva ubicacion se haya creado de manera satisfactoria en la pagina **Ubicaciones**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat21.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat21.png?raw=true"width="800" height="400"></p>
 
 Asociar la nueva ubicación Panamá a la organización Global Bank
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat22.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat22.png?raw=true"width="800" height="400"></p>
 
 En la pagina de Organizaciones darle click al boton **Editar**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat23.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat23.png?raw=true"width="800" height="400"></p>
 
 **Ubicaciones > Panamá y darle click al símbolo de las flechas**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat24.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat24.png?raw=true"width="800" height="400"></p>
 
 Luego darle click al botón **Enviar**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat25.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat25.png?raw=true"width="800" height="400"></p>
 
 En la parte superior izquierda en la parte oscura validar que exista la **organización Global Bank** y **la ubicación Panamá**
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat26.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat26.png?raw=true"width="800" height="400"></p>
 
 # Crear Ubicaciones en Satellite por CLI hammer. (Demostrativo)
 Autenticarse utilizando la herramienta hammer
@@ -264,4 +264,4 @@ CDN configuration:
 <br>**Asociar la Ubicación Piura a la Organización Cajeros**
 
 
-<p><br><a href="sat">volver</a></p>
+<p><br><a href="sat.md">volver</a></p>
