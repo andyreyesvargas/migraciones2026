@@ -27,55 +27,55 @@ La siguiente demostración tiene como finalidad aprender a crear usuarios por la
 
 **Administrar > Usuarios**
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat600.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat27.png?raw=true"width="800" height="400"></p>
 
 En la pagina de Usuarios darle click al boton **Crear usuario**
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat601.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat28.png?raw=true"width="800" height="400"></p>
 
 Ingresar los datos como se muestra en la imagen y darle click al boton **Enviar**
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat602.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat29.png?raw=true"width="800" height="400"></p>
 
 Verificar que el nuevo usuario se haya creado de manera satisfactoria en la pagina **Usuarios**
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat30.png?raw=true"width="800" height="400"></p>
 
 Seleccionar en la lista de la **columna acciones** la opción **Impersonate** para validar los accesos efectivos
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603_00.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat31_00.png?raw=true"width="800" height="400"></p>
 
 Verificar que se ha cambiado al usuario temporalmente de manera satisfactoria
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603_01.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat32_01.png?raw=true"width="800" height="400"></p>
 
 Marcar el símbolo de Impersonate y confirmar para salir del modo
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603_02.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat33.png?raw=true"width="800" height="400"></p>
 
 Hacer click en el **nombre del usuario** para modificar sus propiedades y adicionarle el **rol de administrador**
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603_04.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat34.png?raw=true"width="800" height="400"></p>
 
 Dentro del las opciones de **roles** marcar la **casilla de Administrador** y presionar el botón **Enviar**
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603_05.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat35.png?raw=true"width="800" height="400"></p>
 
 Verificar que el usuario ahora tenga en la **columna Administrador** el check **activado**.
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603_06.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat36.png?raw=true"width="800" height="400"></p>
 
 Salir temporalmente de la cuenta de administrador para validar el acceso a nivel administrador para el usuario
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603_07.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat37.png?raw=true"width="800" height="400"></p>
 
 Ingresar las credenciales
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603_08.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat38.png?raw=true"width="800" height="400"></p>
 
 Validar el acceso y rol Administrador
 
-<p align="left"><img src="https://github.com/workshopopennova/tecnologiasredhat/blob/master/images/sat/sat603_09.png?raw=true"width="800" height="400"></p>
+<p align="left"><img src="../images/sat/sat39.png?raw=true"width="800" height="400"></p>
 
 # Crear usuarios en Satellite por CLI hammer. (Demostrativo)
 Autenticarse utilizando la herramienta hammer
