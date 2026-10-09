@@ -1,4 +1,5 @@
-<p align="center"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat.png?raw=true" alt="SAT logo">
+<p align="center">
+![SAT Logo](content/images/sat.png)
 </p>
 <h1 align="center">Red Hat Satellite</h1>
 <p align="center">
