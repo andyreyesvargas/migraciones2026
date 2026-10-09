@@ -1,5 +1,5 @@
 <h1>Introducción a Red Hat Satellite</h1>
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat.png?raw=true"></p>
+<p align="left"><img src="../imagessat.png?raw=true"></p>
 <p>
 <strong>Meta:</strong>
 <br>- Entendimiento de Red Hat Satellite como solución de administración, monitoreo y despliegue de Red Hat Enteprise Linux.
