@@ -1,10 +1,8 @@
 <h1><p align="center">
 <br>Workshop elaborado para el cliente Autoridad Nacional de Migraciones
-<p align="center"><img src="./blob/main/images/home.png" alt="RHlogo">
+![RH Logo](img/home.png)
 
 <br><a href="https://www.redhat.com"><strong>Red Hat</strong></a>
-
-![test sat](img/home.png)
 
 <br>
 </p>
