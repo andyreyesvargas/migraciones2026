@@ -157,7 +157,7 @@ Hacer una revision de salud de Red Hat Satellite
 ```
 
 También se puede cambiar la contraseña con la consola web en la sección de usuarios
-<p align="left"><img src="../main/images/sat11.png?raw=true"></p>
+<p align="left"><img src="../images/sat11.png?raw=true"></p>
 
 Se ingresa la contraseña actual y la nueva
 <p align="left"><img src="../images/sat12.png?raw=true"></p>
