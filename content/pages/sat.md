@@ -16,9 +16,9 @@ Manual de procedimientos del workshop de la solución Red Hat Satellite versión
 <h2>Tabla de contenidos</h2>
 <br><a href="sat01.md">Introducción a Red Hat Satellite
 <br><a href="sat02.md">Entendimiento y visualización del proceso de instalación</a>
-<br><a href="sat03">Navegación por la UI de Red Hat Satellite y conocimiento de sus componentes</a>
-<br><a href="sat04">Navegación por la UI de access.redhat.com y su integración con RH Satellite</a>
-<br><a href="sat05">Gestión de organizaciones y ubicaciones</a>
+<br><a href="sat03.md">Navegación por la UI de Red Hat Satellite y conocimiento de sus componentes</a>
+<br><a href="sat04.md">Navegación por la UI de access.redhat.com y su integración con RH Satellite</a>
+<br><a href="sat05.md">Gestión de organizaciones y ubicaciones</a>
 <br><a href="sat06">Gestión de usuarios, grupos y roles</a>
 <br><a href="sat0601">Gestión de manifiestos y repositorios</a>
 <br><a href="sat08">Gestión de Contenido</a>
