@@ -19,7 +19,7 @@
 </p>
 
 # Introducción a Red Hat Satellite. (Teórico)
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat01.png?raw=true"></p>
+<p align="left"><img src="../images/sat01.png?raw=true"></p>
 
 **¿Que es Red Hat Satellite?**
 <br>
@@ -31,7 +31,7 @@
 
 Los servidores cápsula reducen la carga en el servidor central, aumentan la redundancia y reducen el uso de ancho de banda
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat02.png?raw=true" width="400" height="400"></p>
+<p align="left"><img src="../images/sat02.png?raw=true" width="400" height="400"></p>
 
 ### **Características y beneficios de Red Hat Satellite**
 <br>Red Hat Satellite automatiza muchas tareas relacionadas con la administración del sistema y se integra fácilmente en los marcos de flujo de trabajo existentes. La consola centralizada ofrece a los administradores una ubicación única para acceder a los informes y para aprovisionar, configurar y actualizar sistemas.
@@ -96,7 +96,7 @@ Los servidores cápsula reducen la carga en el servidor central, aumentan la red
 Red Hat Satellite 6 consta de varios proyectos de código abierto que están integrados, verificados, entregados y respaldados como Satellite 6. 
 <br>Consta de los siguientes proyectos de código abierto:
 
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat03.png?raw=true"width="700" height="280"></p>
+<p align="left"><img src="../images/sat03.png?raw=true"width="700" height="280"></p>
 
 ### **Foreman**
 Foreman es una aplicación de código abierto que se utiliza para el aprovisionamiento y la gestión del ciclo de vida de sistemas físicos y virtuales. Foreman configura automáticamente estos sistemas utilizando varios métodos, incluidos los módulos kickstart y Puppet. Foreman también proporciona datos históricos para informes, auditorías y resolución de problemas.
@@ -153,16 +153,16 @@ Red Hat Satellite 6 incluye paquetes Puppet compatibles. El programa de instalac
 
 # Planificar escenarios de despliegue. (Teórico)
 ### **Arquitectura del sistema Red Hat Satellite 6**
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat04.png?raw=true" width="850" height="600"></p>
+<p align="left"><img src="../images/sat04.png?raw=true" width="850" height="600"></p>
 
 
 ### **Topología de satélite con cápsula interna**
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat05.png?raw=true" width="850" height="600"></p>
+<p align="left"><img src="../images/sat05.png?raw=true" width="850" height="600"></p>
 
 ### **Topología de satélite con cápsula aislada**
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat06.png?raw=true" width="850" height="600"></p>
+<p align="left"><img src="../images/sat06.png?raw=true" width="850" height="600"></p>
 
 ### **Topología de satélite con manejo de ciclo de vida**
-<p align="left"><img src="https://github.com/workshop-opennova/migraciones/blob/main/images/sat07.png?raw=true" width="850" height="600"></p>
+<p align="left"><img src="../images/sat07.png?raw=true" width="850" height="600"></p>
 
 <p><br><a href="sat">volver</a></p>
