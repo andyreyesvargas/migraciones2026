@@ -1,4 +1,4 @@
-<p align="center"><img src="../content/images/sat.png" alt="SAT logo"></p>
+<p align="center"><img src="/content/images/sat.png" alt="SAT logo"></p>
 
 
 
