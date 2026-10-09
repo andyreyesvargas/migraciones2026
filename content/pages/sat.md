@@ -14,7 +14,7 @@
 Manual de procedimientos del workshop de la solución Red Hat Satellite versión 6.18 sobre plataforma Red Hat Enterprise Linux 9.4
 
 <h2>Tabla de contenidos</h2>
-<br><a href="sat01">Introducción a Red Hat Satellite
+<br><a href="sat01.md">Introducción a Red Hat Satellite
 <br><a href="sat02">Entendimiento y visualización del proceso de instalación</a>
 <br><a href="sat03">Navegación por la UI de Red Hat Satellite y conocimiento de sus componentes</a>
 <br><a href="sat04">Navegación por la UI de access.redhat.com y su integración con RH Satellite</a>
