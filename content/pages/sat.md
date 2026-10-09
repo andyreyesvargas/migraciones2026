@@ -1,5 +1,7 @@
 <p align="center" ![SAT Logo](../images/sat.png)>
 
+<p align="center"><img src="content/images/sat.png" alt="SAT logo">
+
 
 
 <h1 align="center">Red Hat Satellite</h1>
