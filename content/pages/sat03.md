@@ -172,4 +172,4 @@ Se ingresa la contraseña actual y la nueva
 <br>- Configurar un mensaje de inicio de sesión que diga la frase: "Red Hat Satellite MIGRACIONES v6.18.0"
 <br>- Cambiar la contraseña del usuario admin por los 2 métodos: ´rimero setearla a redhat123 por CLI luego cambiarlo por la GUI a redhat.
 
-<p><br><a href="sat">volver</a></p>
+<p><br><a href="sat.md">volver</a></p>
